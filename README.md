@@ -1,3 +1,5 @@
+![](https://github.com/Marobyte/FullStack/fullstack.gif)
+
 <h1 align="center">Hola 👋, Me llamo Maro Martinez Rivas</h1>
 <h3 align="center">Un Developer FullStack Apasionado</h3>
 
