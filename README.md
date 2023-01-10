@@ -1,5 +1,4 @@
-![](https://github.com/Marobyte/FullStack/fullstack.gif)
-
+<p align="center" padding=0 ><img  width="460" height="300" src="https://user-images.githubusercontent.com/52353043/211624118-ca27cf5b-fb44-4840-bb1a-b5f869045c0a.gif"></p>
 <h1 align="center">Hola 👋, Me llamo Maro Martinez Rivas</h1>
 <h3 align="center">Un Developer FullStack Apasionado</h3>
 
