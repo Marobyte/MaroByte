@@ -2,7 +2,7 @@
 <h1 align="center">Hola 👋, Me llamo Maro Martinez Rivas</h1>
 <h3 align="center">Un Developer FullStack Apasionado</h3>
 
-- 💬 Ask me about **Html, Css, Javascript, NodeJS, ReactJS, Angular**
+- 💬 Ask me about **Html, Css, Javascript, NodeJS, ReactJS, Angular, Java SE, SpringBoot**
 
 - 📫 How to reach me **maromartinezrivas@gmail.com**
 
